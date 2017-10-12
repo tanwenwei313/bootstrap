@@ -8,7 +8,7 @@ eslint:
 stylelint:
   config_file: .stylelintrc
   enabled: true
-  ignore_file: .houndignore
+  ignore_file: .stylelintignore
 
 jshint:
   enabled: false
