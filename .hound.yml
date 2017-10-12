@@ -6,7 +6,7 @@ eslint:
   ignore_file: .houndignore
 
 stylelint:
-  config_file: build/.stylelintrc
+  config_file: .stylelintrc
   enabled: true
   ignore_file: .houndignore
 
